@@ -1,7 +1,7 @@
 ## Material Symbols / Material Icons
 
 These are two different official icon sets from Google, using the same underlying designs. Material Symbols is the current set, introduced in April 2022, built on variable font technology. Material Icons is the classic set, but no longer updated. More details below.
-
+      (FREE)
 The icons can be browsed in a more user-friendly way at https://fonts.google.com/icons. Use the popdown menu near top left to choose between the two sets; Material Symbols is the default.
 
 The icons are designed under the [material design guidelines](https://material.io/guidelines/).
